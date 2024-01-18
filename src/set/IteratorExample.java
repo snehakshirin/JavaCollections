@@ -24,6 +24,7 @@ public class  IteratorExample{
 			System.out.println(i.next());
 		}
 		
+		
 	}
 
 }
